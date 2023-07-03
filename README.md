@@ -4,4 +4,4 @@
 
 Стек:
 - EDA: `Matplotlib`, `pandas`, `seaborn`
-- статистические инструменты: `SciPy`, `statsmodels`
+- Статистические инструменты: `SciPy`, `statsmodels`
